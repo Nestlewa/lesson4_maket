@@ -1,0 +1,47 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+body {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    width: 810px;
+}
+#title {
+    color: #1e212c;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+}
+div .main-text {
+    color: #1e212c;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.about {
+    color: #424551;
+    font-weight: 400;
+    line-height: 1.6;
+}
+.quotation p {
+    color: #1e212c;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.list-conteiner p {
+    color: #424551;
+    font-weight: 400;
+    line-height: 1.6;
+}
+div ul {
+    color: #424551;
+    font-weight: 400;
+    line-height: 1.6;
+}
+.footer > p {
+    color: #424551;
+    font-weight: 400;
+    line-height: 1.6;
+}
